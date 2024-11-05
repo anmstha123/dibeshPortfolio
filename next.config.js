@@ -14,7 +14,6 @@ const nextConfig = {
   httpAgentOptions: {
     keepAlive: true,
   },
-  distDir: 'build'
 };
 
 module.exports = nextConfig;
